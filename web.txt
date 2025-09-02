@@ -1,0 +1,10 @@
+github
+fthu
+ygjji
+jkuo
+sawads
+dsewdx
+zcbnn
+
+
+git config --global user.name "KESAR2527"
